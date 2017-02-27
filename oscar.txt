@@ -6,4 +6,4 @@ premieres récompense: meilleure actrice
 seconde récompense: meilleur réalisateur
 
 
-troisieme et quatrieme recompense: meilleure photographie, meilleurs décors
+troisieme et quatrieme recompense: meilleure photographie, meilleurs décors.
